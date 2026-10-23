@@ -1,0 +1,6 @@
+<svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" rx="20" fill="#0B1116"/>
+  <path d="M15 48C20 38 35 32 50 30C65 28 85 36 88 42C78 38 65 35 50 36C35 37 22 42 15 48Z" fill="#FFFFFF"/>
+  <path d="M30 45C50 42 65 44 86 54C82 48 65 44 50 43C35 42 30 45 30 45Z" fill="#E5242D"/>
+  <text x="50" y="75" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-weight="900" font-size="24">WC</text>
+</svg>

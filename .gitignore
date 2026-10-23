@@ -1,0 +1,12 @@
+/.agents
+/frontend-design
+/node_modules
+/.agent
+/.claude
+/.codex
+/.cursor
+/.gemini
+/.opencode
+.env.local
+.env.*.local
+/work/
